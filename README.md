@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently work at Juniper Networks solving interesting software simulation problems.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Distributed Systems.
+- 🎓 &nbsp; Currently work at Juniper Networks solving interesting software simulation and optimization problems.
+- 🌱 &nbsp; Learning more about Cloud Architecture, System Design and large scale fault tolerant Distributed Systems.
 
 <h3> 🛠 &nbsp;Tech Stack and Expertise</h3>
 
