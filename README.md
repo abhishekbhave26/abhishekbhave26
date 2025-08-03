@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently work at Juniper Networks solving interesting software simulation and optimization problems.
+- 🎓 &nbsp; Currently work at as a Software Engineer @ Meta solving interesting software and distributed systems problems.
 - 🌱 &nbsp; Learning more about Cloud Architecture, System Design and large scale fault tolerant Distributed Systems.
 
 <h3> 🛠 &nbsp;Tech Stack and Expertise</h3>
